@@ -1,0 +1,16 @@
+# Python virtual environments
+venv/
+venv310/
+.env/
+__pycache__/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+.env
